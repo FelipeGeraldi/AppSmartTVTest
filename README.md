@@ -18,3 +18,8 @@ https://webostv.developer.lge.com/sdk/installation/download-installer/
   
 https://developer.tizen.org/development/tizen-studio/download
 
+
+
+- Android TV - Automation Test for Android TV - become so easy with ATOM, no coding skill required!
+
+https://www.youtube.com/watch?v=LUYmSguwrrA
